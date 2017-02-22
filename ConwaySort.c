@@ -11,8 +11,9 @@
  */
 
 // The array to be sorted
-int[] arr = {6, 8, 3, 9, 5, 4, 1, 7, 0, 2}
+int arr[] = {6, 8, 3, 9, 5, 4, 1, 7, 0, 2};
 
 int main(int argc, char **argv) {
-	printf ("15, 16, 17, 18, 19, 20");
+	printf ("15, 16, 17, 18, 19, 20\n");
+	return 0;
 }
